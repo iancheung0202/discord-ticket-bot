@@ -5,6 +5,6 @@ TICKET_LOG = 944840833440567306
 GUILD_ID = 943302660025634836
 CATEGORY_ID = 944841033177497600
 DETELE_TICKET_TIMEOUT = 5 #seconds
-BOT_TOKEN = "NzMyODk3ODA3NTU1NjI1MDQx.Xw7SRQ.5aJs2EXFNDi4MbiiBC6jmGGwxB4"
+BOT_TOKEN = "kasjhdfjblih43iruefhjdbjhwku3iqjwekds"
 MSG = "Need any assistance or help? Create a ticket by clicking the button below and our staff will get back to you in the ticket as soon as they can!"
 TITLE = "📨 Ticket Information & Guidelines"
